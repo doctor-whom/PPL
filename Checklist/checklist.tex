@@ -1,0 +1,92 @@
+\documentclass[12pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{enumitem,amssymb}
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=$\square$}
+\usepackage{multicol}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=blue,
+    filecolor=blue,
+    linkcolor=blue,
+    urlcolor=blue
+}
+\usepackage{titling}
+\setlength{\droptitle}{-2em} 
+
+\begin{document}
+\title{Pre-flight Checklist}
+\date{}
+\maketitle
+\vspace{-9em}
+\begin{itemize}
+  \item Fitness for Flight \footnote{AIM: 8-1-1 Fitness for Flight}:
+  \begin{todolist}
+    \item \textbf{I}llness: Is the pilot suffering from any illness or symptom of an illness which might affect them in flight?
+    \item \textbf{M}edication: Is the pilot currently taking any drugs (prescription or over-the-counter)?
+    \item \textbf{S}tress: Is the pilot overly worried about other factors in their life? 
+    \item \textbf{A}lcohol: 0.04 BAC, any consumption in the past 8 hours 
+    \item \textbf{F}atigue: Has the pilot had sufficient sleep and adequate nutrition?
+    \item \textbf{E}motion: Has the pilot fully recovered from any extremely upsetting events?
+  \end{todolist}
+  \item Personal Minimums Checklist:
+  \begin{todolist}
+  	\item \textbf{P}ilot: T/Os \& LDGs in make/model, Hours in make/model, Physical condition
+  	\item \textbf{A}ircraft: Fuel Reserves, Performance, Equipment
+  	\item En\textbf{V}ironment: Airport Conditions; Weather; Flight Category
+  	\item \textbf{E}xtenal Pressures: Delays; Alternates; Personal equipment
+  \end{todolist}
+  \item  Required Equipment (Day VFR)\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.205\#a}{14 CFR 91.205 (a) - Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements.}}:
+  	\begin{multicols}{2}
+  		\begin{todolist}
+				\item \textbf{A}nti-Collision light system, flashing red or white for small airplanes certificated after March 11, 1996.
+				\item \textbf{T}achometer for each engine
+				\item \textbf{O}il pressure gauge 
+				\item \textbf{M}anifold Pressure gauge
+				\item \textbf{A}ltimeter
+				\item \textbf{T}emperature gauge, for each liquid cooled engine
+				\item \textbf{O}il Temperature gauge, for each air cooled engine
+				\item \textbf{F}uel gauge indicating the quantity in each tank
+				\item \textbf{F}lotation gear, if operated for hire over water beyond power-off gliding distance
+				\item \textbf{L}anding gear position indicator, if the airplane has retractable gear
+				\item \textbf{A}irspeed indicator
+				\item \textbf{M}agnetic direction indicator
+				\item \textbf{E}mergency locator transmitter, after June 21 1995. Batteries used in the ELT must be replaced (or recharged, if the batteries are rechargeable) when the transmitter has been in use for more than 1 cumulative hour; or when 50 percent of their useful life (or, for rechargeable batteries, 50 percent of their useful life of charge) has elapsed.\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.207}{14 CFR 91.207 - Emergency locator transmitters.}}
+				\item \textbf{S}afety belts (and shoulder harnesses for each front seat in an aircraft manufactured after July 18, 1978, all seats after December 12 1986)
+  		\end{todolist}
+  	\end{multicols}
+  	\newpage
+  \item Required Equipment (Night VFR)\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.205\#c}{14 CFR 91.205 (c) - Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements.}}:
+  	\begin{todolist}
+  		\item \textbf{F}uses, or circuit breakers
+		\item \textbf{L}anding lights, if operated for hire
+		\item \textbf{A}nti-collision lights, flashing red or white, for all night operations
+		\item \textbf{P}osition lights, steady green, white and red.
+		\item \textbf{S}ource of power (battery or alternator)
+  	\end{todolist}
+  \item Required Maintenance:
+  	\begin{todolist}
+  		\item \textbf{A}nnual Inspection within the preceding 12 calendar months. (Progressive Insp. \# 4)\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.409}{14 CFR 91.409 - Inspections.}}
+		\item \textbf{A}irworthiness directives and life-limited parts complied with as required.\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.403}{14 CFR 91.403 - General.}}\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.417}{14 CFR 91.417 - Maintenance records.}}
+			\begin{todolist}
+				\item AD-93-05-06 : Ignition Switch Inspection, 2000 Hours
+				\item AD 2015-19-07 : Fuel Injector Line Inspection (Every progressive insp.).
+			\end{todolist}
+		\item \textbf{V}OR equipment check every 30 days, for IFR operations. At a VOR testing location maximum permissible error $\pm 4^\circ$. Airborne check maximum permissible error $\pm 6^\circ$.\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.171}{14 CFR 91.171 - VOR equipment check for IFR operations.}}
+		\item \textbf{1}00-hour inspection, if used for hire or flight instruction in aircraft provided by CFI. (Every progressive event acts as a 100h inspection)\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.409}{14 CFR 91.409 - Inspections.}}
+		\item \textbf{A}ltimeter, altitude reporting equipment, and static pressure systems tested and inspected, for IFR operations, every 24 calendar months.\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.411}{14 CFR 91.411 - Altimeter system and altitude reporting equipment tests and inspections.}}
+		\item \textbf{T}ransponder tests and inspections every 24 calendar months.\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.413}{14 CFR 91.413 - ATC transponder tests and inspections.}}
+		\item \textbf{E}LT, operation and battery condition inspected every 12 calendar months.\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.207}{14 CFR 91.207 - Emergency locator transmitters.}}
+  	\end{todolist}
+  \item Required Documents:
+  	\begin{todolist}
+		\item \textbf{A}irworthiness Certificate displayed at the cabin or cockpit entrance so that it is legible to passengers or crew. \footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.203}{14 CFR 91.203 - Civil aircraft: Certifications required. (a.1,b)}}
+		\item \textbf{R}egistration Certificate \footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.203}{14 CFR 91.203 - Civil aircraft: Certifications required. (a.2)}}
+		\item \textbf{R}estricted radiotelephone Operator Permit (pilot) \& Radio Station License (aircraft) - intl' only.
+		\item \textbf{O}perating Limitations: AFM/POH, placards and markings.\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.9}{14 CFR 91.9 - Civil aircraft flight manual, marking, and placard requirements.}} This includes a compass deviation card\footnote{\href{https://www.law.cornell.edu/cfr/text/14/23.1547}{14 CFR 23.1547 - Magnetic direction indicator.}} and an external data plate/serial number.\footnote{\href{https://www.law.cornell.edu/cfr/text/14/45.11}{14 CFR 45.11 - Marking of products.}}
+		\item \textbf{W}eight and balance, and performance data. \footnote{\href{https://www.law.cornell.edu/cfr/text/14/23.1589}{14 CFR 23.1589 - Loading information.}}\footnote{\href{https://www.law.cornell.edu/cfr/text/14/91.103}{14 CFR 91.103 - Preflight action}}
+	\end{todolist}
+ \end{itemize}
+
+\end{document}
