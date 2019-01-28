@@ -44,54 +44,60 @@
 \contentsline {paragraph}{Variable-Pitch/Constant-Speed Propeller}{22}{section*.8}
 \contentsline {subsubsection}{\numberline {2.2.3}Carburetor}{22}{subsubsection.2.2.3}
 \contentsline {subsubsection}{\numberline {2.2.4}Fuel Injection}{23}{subsubsection.2.2.4}
-\contentsline {subsubsection}{\numberline {2.2.5}Alternator/Battery}{23}{subsubsection.2.2.5}
-\contentsline {subsection}{\numberline {2.3}Flight Controls}{23}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2.3.1}Primary Flight Controls}{23}{subsubsection.2.3.1}
-\contentsline {paragraph}{Aileron}{23}{section*.9}
+\contentsline {subsubsection}{\numberline {2.2.5}Ignition System}{23}{subsubsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.6}Oil Systems}{23}{subsubsection.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.7}Engine Cooling Systems}{23}{subsubsection.2.2.7}
+\contentsline {subsection}{\numberline {2.3}Airframe Systems}{23}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Fuel Systems}{23}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Hydraulic Systems}{24}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Alternator/Battery}{24}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}Flight Controls}{24}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Primary Flight Controls}{24}{subsubsection.2.4.1}
+\contentsline {paragraph}{Aileron}{24}{section*.9}
 \contentsline {paragraph}{Rudder}{24}{section*.10}
 \contentsline {paragraph}{Elevator}{24}{section*.11}
-\contentsline {subsubsection}{\numberline {2.3.2}Secondary Flight Controls}{24}{subsubsection.2.3.2}
-\contentsline {paragraph}{Flaps}{24}{section*.12}
-\contentsline {paragraph}{Leading Edge Devices}{24}{section*.13}
+\contentsline {subsubsection}{\numberline {2.4.2}Secondary Flight Controls}{25}{subsubsection.2.4.2}
+\contentsline {paragraph}{Flaps}{25}{section*.12}
+\contentsline {paragraph}{Leading Edge Devices}{25}{section*.13}
 \contentsline {paragraph}{Spoilers}{25}{section*.14}
 \contentsline {paragraph}{Trim}{25}{section*.15}
-\contentsline {subsection}{\numberline {2.4}Engine Controls}{25}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {2.4.1}Throttle \& Mixture}{25}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {2.4.2}Carburetor Heat}{25}{subsubsection.2.4.2}
-\contentsline {subsubsection}{\numberline {2.4.3}Propeller}{26}{subsubsection.2.4.3}
-\contentsline {subsubsection}{\numberline {2.4.4}Ignition System}{27}{subsubsection.2.4.4}
-\contentsline {subsubsection}{\numberline {2.4.5}Fuel System}{28}{subsubsection.2.4.5}
-\contentsline {subsection}{\numberline {2.5}Flight Instruments}{29}{subsection.2.5}
-\contentsline {subsubsection}{\numberline {2.5.1}Pitot-Static Instruments}{29}{subsubsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5}Engine Controls}{26}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Throttle \& Mixture}{26}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Carburetor Heat}{26}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Propeller}{26}{subsubsection.2.5.3}
+\contentsline {subsubsection}{\numberline {2.5.4}Ignition System}{28}{subsubsection.2.5.4}
+\contentsline {subsubsection}{\numberline {2.5.5}Fuel System}{28}{subsubsection.2.5.5}
+\contentsline {subsection}{\numberline {2.6}Flight Instruments}{29}{subsection.2.6}
+\contentsline {subsubsection}{\numberline {2.6.1}Pitot-Static Instruments}{29}{subsubsection.2.6.1}
 \contentsline {paragraph}{Altimeter}{29}{section*.18}
 \contentsline {paragraph}{Airspeed Indicator}{30}{section*.20}
 \contentsline {paragraph}{Vertical Speed Indicator}{32}{figure.caption.23}
-\contentsline {subsubsection}{\numberline {2.5.2}Gyroscopic Instruments}{32}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.6.2}Gyroscopic Instruments}{32}{subsubsection.2.6.2}
 \contentsline {paragraph}{Attitude Indicator}{32}{section*.24}
 \contentsline {paragraph}{Turn Coordinator \& Inclinometer}{33}{section*.26}
 \contentsline {paragraph}{Heading Indicator}{34}{section*.28}
-\contentsline {subsubsection}{\numberline {2.5.3}Magnetic Compass}{35}{subsubsection.2.5.3}
-\contentsline {subsection}{\numberline {2.6}Systems Instruments}{36}{subsection.2.6}
-\contentsline {subsubsection}{\numberline {2.6.1}Engine Instruments}{36}{subsubsection.2.6.1}
-\contentsline {subsubsection}{\numberline {2.6.2}Electrical System Instruments}{37}{subsubsection.2.6.2}
-\contentsline {subsection}{\numberline {2.7}Communications Systems}{37}{subsection.2.7}
-\contentsline {subsubsection}{\numberline {2.7.1}Radios}{37}{subsubsection.2.7.1}
-\contentsline {subsubsection}{\numberline {2.7.2}Transponders}{38}{subsubsection.2.7.2}
-\contentsline {subsubsection}{\numberline {2.7.3}ELT}{38}{subsubsection.2.7.3}
-\contentsline {subsubsection}{\numberline {2.7.4}TCAS, TIS-B, ADS-B, \& FIS-B}{38}{subsubsection.2.7.4}
+\contentsline {subsubsection}{\numberline {2.6.3}Magnetic Compass}{35}{subsubsection.2.6.3}
+\contentsline {subsection}{\numberline {2.7}Systems Instruments}{36}{subsection.2.7}
+\contentsline {subsubsection}{\numberline {2.7.1}Engine Instruments}{36}{subsubsection.2.7.1}
+\contentsline {subsubsection}{\numberline {2.7.2}Electrical System Instruments}{37}{subsubsection.2.7.2}
+\contentsline {subsection}{\numberline {2.8}Communications Systems}{37}{subsection.2.8}
+\contentsline {subsubsection}{\numberline {2.8.1}Radios}{37}{subsubsection.2.8.1}
+\contentsline {subsubsection}{\numberline {2.8.2}Transponders}{38}{subsubsection.2.8.2}
+\contentsline {subsubsection}{\numberline {2.8.3}ELT}{38}{subsubsection.2.8.3}
+\contentsline {subsubsection}{\numberline {2.8.4}TCAS, TIS-B, ADS-B, \& FIS-B}{38}{subsubsection.2.8.4}
 \contentsline {paragraph}{TCAS: Traffic Alert and Collision Avoidance System}{38}{section*.30}
 \contentsline {paragraph}{TIS-B: Traffic Information Service-Broadcast}{39}{section*.31}
 \contentsline {paragraph}{ADS-B: Automatic Dependent Surveillance−Broadcast}{39}{section*.32}
 \contentsline {paragraph}{FIS-B: Flight Information Service - Broadcast (FIS−B)}{39}{section*.33}
-\contentsline {subsection}{\numberline {2.8}Navigation Systems}{40}{subsection.2.8}
-\contentsline {subsubsection}{\numberline {2.8.1}Course Deviation Indicator (CDI)}{40}{subsubsection.2.8.1}
-\contentsline {subsubsection}{\numberline {2.8.2}Horizontal Situation Indicator (HSI)}{41}{subsubsection.2.8.2}
-\contentsline {subsubsection}{\numberline {2.8.3}Radio Magnetic Indicator (RMI)}{41}{subsubsection.2.8.3}
-\contentsline {subsubsection}{\numberline {2.8.4}Distance Measuring Equipment (DME)}{41}{subsubsection.2.8.4}
-\contentsline {subsubsection}{\numberline {2.8.5}Automatic Direction Finder (ADF)}{42}{subsubsection.2.8.5}
-\contentsline {subsubsection}{\numberline {2.8.6}GPS}{42}{subsubsection.2.8.6}
-\contentsline {subsubsection}{\numberline {2.8.7}RAIM}{43}{subsubsection.2.8.7}
-\contentsline {subsubsection}{\numberline {2.8.8}WAAS \& SBAS}{43}{subsubsection.2.8.8}
+\contentsline {subsection}{\numberline {2.9}Navigation Systems}{40}{subsection.2.9}
+\contentsline {subsubsection}{\numberline {2.9.1}Course Deviation Indicator (CDI)}{40}{subsubsection.2.9.1}
+\contentsline {subsubsection}{\numberline {2.9.2}Horizontal Situation Indicator (HSI)}{41}{subsubsection.2.9.2}
+\contentsline {subsubsection}{\numberline {2.9.3}Radio Magnetic Indicator (RMI)}{41}{subsubsection.2.9.3}
+\contentsline {subsubsection}{\numberline {2.9.4}Distance Measuring Equipment (DME)}{41}{subsubsection.2.9.4}
+\contentsline {subsubsection}{\numberline {2.9.5}Automatic Direction Finder (ADF)}{42}{subsubsection.2.9.5}
+\contentsline {subsubsection}{\numberline {2.9.6}GPS}{42}{subsubsection.2.9.6}
+\contentsline {subsubsection}{\numberline {2.9.7}RAIM}{43}{subsubsection.2.9.7}
+\contentsline {subsubsection}{\numberline {2.9.8}WAAS \& SBAS}{43}{subsubsection.2.9.8}
 \contentsline {section}{\numberline {3}Pre-Flight}{44}{section.3}
 \contentsline {subsection}{\numberline {3.1}Private Pilot Privileges and Limitations}{44}{subsection.3.1}
 \contentsline {subsubsection}{\numberline {3.1.1}Eligibility Requirements}{44}{subsubsection.3.1.1}
